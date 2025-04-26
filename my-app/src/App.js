@@ -6,6 +6,7 @@ import Homepage from './pages/Homepage/Homepage';
 import Moviepage from './pages/Moviepage/Moviepage';
 import Detailpage from './pages/Detailpage/Detailpage';
 import Notfoundpage from './pages/Notfoundpage/Notfoundpage';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //홈페이지
 //영화 전체 보여주는 페이지

@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+/* App.css */
+body {
+  font-family: 'Roboto', sans-serif; /* Global font change */
+}
+
+.custom-navbar {
+  background-color: #0C0B0B;
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
